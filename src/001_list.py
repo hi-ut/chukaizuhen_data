@@ -4,6 +4,10 @@ import json
 import requests
 import os
 from PIL import Image
+import datetime
+today = datetime.datetime.now()
+
+prefix = "https://hi-ut.github.io/chukaizuhen_data"
 
 df = pd.read_csv('data/data.csv')
 
@@ -35,7 +39,8 @@ for index, row in df.iterrows():
     item = {
         "objectID": id,
         "label" : label,
-        "分類" : [category]
+        "分類" : [category],
+        "_updated": format(today, '%Y-%m-%d')
     }
 
     curation_uri = url.split("=")[1].split("&")[0]
@@ -90,6 +95,15 @@ for index, row in df.iterrows():
         im_crop = im_crop.resize((width, height))
 
         im_crop.save(img_opath)
+
+    item["thumbnail"] = prefix + "/files/medium/" + id + ".jpg"
+
+    with open("../../chukaizuhen/static/data/item/{}.json".format(id), 'w') as outfile:
+        json.dump(item, outfile, ensure_ascii=False,
+            indent=4, sort_keys=True, separators=(',', ': '))
+
+    fulltext = label + " " + category
+    item["fulltext"] = [fulltext]
 
     items.append(item)
 
