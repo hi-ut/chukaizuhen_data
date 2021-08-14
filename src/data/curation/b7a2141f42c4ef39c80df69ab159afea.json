@@ -1,0 +1,480 @@
+{
+    "@context": [
+        "http://iiif.io/api/presentation/2/context.json",
+        "http://codh.rois.ac.jp/iiif/curation/1/context.json"
+    ],
+    "@id": "https://api.jsonbin.io/b/61179ec2d5667e403a427a40/1",
+    "@type": "cr:Curation",
+    "label": "Automatic curation by IIIF Converter",
+    "selections": [
+        {
+            "@id": "https://api.jsonbin.io/b/61179ec2d5667e403a427a40/1/range1",
+            "@type": "sc:Range",
+            "label": "Automatic curation by IIIF Converter",
+            "members": [
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p4#xywh=763,563,2338,3300",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 1]",
+                    "label": "b2-1",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b2-1"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p5#xywh=763,595,2322,3261",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 2]",
+                    "label": "b2-2",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b2-2"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p7#xywh=763,516,2361,3363",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 3]",
+                    "label": "b2-3",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b2-3"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p8#xywh=3150,508,2369,3339",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 4]",
+                    "label": "b2-4",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b2-4"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p10#xywh=787,540,2291,3308",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 5]",
+                    "label": "b2-5",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b2-5"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p11#xywh=3134,555,2385,3308",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 6]",
+                    "label": "b2-6",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b2-6"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p11#xywh=794,555,2314,3316",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 7]",
+                    "label": "b2-7",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b2-7"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p12#xywh=3134,555,2393,3300",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 8]",
+                    "label": "b2-8",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b2-8"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p14#xywh=818,540,2275,3316",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 9]",
+                    "label": "b2-9",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b2-9"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p15#xywh=3134,587,2299,3276",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 10]",
+                    "label": "b2-10",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b2-10"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p15#xywh=802,477,2283,3378",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 11]",
+                    "label": "b2-11",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b2-11"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p16#xywh=785,595,2318,3268",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 12]",
+                    "label": "b-12",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-12"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p17#xywh=763,398,2346,3480",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 13]",
+                    "label": "b-13",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-13"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p18#xywh=818,563,2314,3308",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 14]",
+                    "label": "b-14",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-14"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p19#xywh=830,589,2306,3288",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 15]",
+                    "label": "b-15",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-15"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p20#xywh=810,579,2322,3268",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 16]",
+                    "label": "b-16",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-16"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p22#xywh=826,603,2299,3245",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 17]",
+                    "label": "b-17",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-17"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p23#xywh=810,540,2306,3308",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 18]",
+                    "label": "b-18",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-18"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p24#xywh=802,516,2306,3323",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 19]",
+                    "label": "b-19",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-19"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p27#xywh=810,603,2306,3237",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 20]",
+                    "label": "b-20",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-20"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p28#xywh=787,548,2330,3292",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 21]",
+                    "label": "b-21",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-21"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p29#xywh=800,634,2310,3237",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 22]",
+                    "label": "b-22",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-22"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p30#xywh=802,540,2299,3308",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 23]",
+                    "label": "b-23",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-23"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p31#xywh=779,603,2330,3268",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 24]",
+                    "label": "b-24",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-24"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p32#xywh=779,516,2338,3323",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 25]",
+                    "label": "b-25",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-25"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p33#xywh=3111,508,2306,3308",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 26]",
+                    "label": "b-26",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-26"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p33#xywh=816,542,2271,3288",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 27]",
+                    "label": "b-27",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-27"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p34#xywh=855,563,2310,3323",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 28]",
+                    "label": "b-28",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-28"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p35#xywh=826,550,2338,3249",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 29]",
+                    "label": "b-29",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-29"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p36#xywh=863,471,2271,3374",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 30]",
+                    "label": "b-30",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-30"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p37#xywh=840,571,2295,3292",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 31]",
+                    "label": "b-31",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-31"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p38#xywh=824,642,2303,3229",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 32]",
+                    "label": "b-32",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-32"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p40#xywh=808,555,2350,3323",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 33]",
+                    "label": "b-33",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-33"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p41#xywh=798,608,2340,3275",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 34]",
+                    "label": "b-34",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-34"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p42#xywh=808,603,2350,3268",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 35]",
+                    "label": "b-35",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-35"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p43#xywh=842,534,2306,3327",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 36]",
+                    "label": "b-36",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-36"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p44#xywh=818,571,2338,3284",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 37]",
+                    "label": "b-37",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-37"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p45#xywh=826,555,2314,3300",
+                    "@type": "sc:Canvas",
+                    "description": "[Annotation 38]",
+                    "label": "b-38",
+                    "metadata": [
+                        {
+                            "label": "dctypes:Text",
+                            "value": "b-38"
+                        }
+                    ]
+                }
+            ],
+            "within": {
+                "@id": "https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json",
+                "@type": "sc:Manifest",
+                "label": "籌海図編１９"
+            }
+        }
+    ],
+    "viewingHint": "grid"
+}
