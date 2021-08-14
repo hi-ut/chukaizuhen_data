@@ -87,7 +87,7 @@ for index, row in df.iterrows():
         im = Image.open(img)
         im_crop = im.crop((x, y, x+w, y+h))
 
-        h, w = im_crop.size
+        w, h = im_crop.size
 
         width = 200
         height = int(h * 200 / w)
