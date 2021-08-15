@@ -103,7 +103,7 @@ for index, row in df.iterrows():
             indent=4, sort_keys=True, separators=(',', ': '))
 
     fulltext = label + " " + category
-    item["fulltext"] = [fulltext]
+    item["fulltext"] = fulltext
 
     items.append(item)
 
