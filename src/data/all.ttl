@@ -1,0 +1,456 @@
+@prefix ns1: <http://schema.org/> .
+@prefix ns2: <https://lab.hi.u-tokyo.ac.jp/term/property#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/[タイトルなし]> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "[タイトルなし]" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/84727a634f17d75e77011cc286d98e03.jpg>,
+        <https://hi-ut.github.io/chukaizuhen_data/files/medium/ae523feb45ad5db7a82b166e4bbdf70d.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p16#xywh=785,595,2318,3268>,
+        <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p32#xywh=779,516,2338,3323> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/一窩蜂> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "一窩蜂" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/9f7d1bc7b3e5f6ad668e7361fc77e841.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p15#xywh=3134,587,2299,3276> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/両広薬箭> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "両広薬箭" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/cea9accee37d8f7551100b2d10d9e751.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p28#xywh=787,548,2330,3292> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/両頭舡> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "両頭舡" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/船> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/38bcf94ef1946e7dbf6ad6910e2a2b3c.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p21#xywh=771,469,2338,3394> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/仏狼機> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "仏狼機" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/cc037305c486d0ccd9c3eef6958ff896.jpg>,
+        <https://hi-ut.github.io/chukaizuhen_data/files/medium/d2638b2c81b574a2ad1c68c542d3e5ea.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p7#xywh=763,516,2361,3363>,
+        <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p8#xywh=3150,508,2369,3339> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/伏弩> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "伏弩" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/6b30b8b762858620239816c33cf52e5d.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p31#xywh=779,603,2330,3268> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/偃月刀> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "偃月刀" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/e91941930ccd7299e102a03e0f0941a7.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p43#xywh=842,534,2306,3327> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/側立_裏面鬼撑形／外形> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "側立 裏面鬼撑形／外形" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/f44aa37b1fffc0b1dda42a49f7368b5f.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p10#xywh=787,540,2291,3308> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/八槳船> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "八槳船" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/船> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/385205614334d952ac66f017e5f1277a.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p17#xywh=763,555,2369,3316> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/剣> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "剣" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/9cf789ff58fdd949d58ad00871c91c35.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p44#xywh=818,571,2338,3284> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/地雷> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "地雷" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/80f0fa438bea84625eb2a79df5edc39d.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p18#xywh=818,563,2314,3308> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/大福船> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "大福船" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/船> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/0fcd3692b6127864fbc0a3ea1986aec8.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p8#xywh=716,597,2401,3280> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/大蜂窠> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "大蜂窠" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/410711a7af7f558718df836a529a3bac.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p19#xywh=830,589,2306,3288> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/天墜砲> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "天墜砲" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/4da3edaf931e398f5b090a586a04ba32.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p17#xywh=763,398,2346,3480> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/天蓬鏟> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "天蓬鏟" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/076f5efacaf8e45599ecb0c4ea269749.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p42#xywh=808,603,2350,3268> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/子母炮> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "子母炮" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/78cc7d2ff43537fd990c4ea094ad833d.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p15#xywh=802,477,2283,3378> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/広東船> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "広東船" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/船> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/031067f84a03e68e9f8771d196682a09.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p5#xywh=722,610,2413,3276> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/弩箭> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "弩箭" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/243d5c505fba6ea41965f185c0ca776e.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p30#xywh=802,540,2299,3308> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/挨牌> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "挨牌" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/39ff341cf81962ada639c0ba51867253.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p36#xywh=755,555,2346,3308> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/新会県尖尾船> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "新会県尖尾船" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/船> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/bebd8809dc1bda3eec28cdbdd7c79795.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p6#xywh=3164,642,2413,3237> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/東莞県大頭船> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "東莞県大頭船" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/船> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/59644e80f5c0afc357e3736294b5b8a4.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p6#xywh=692,557,2409,3319> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/梨花鎗> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "梨花鎗" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/e1161c2ed9c0d9b48e63a74fde6f5993.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p41#xywh=798,608,2340,3275> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/棍> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "棍" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/79046404c76f3778beb19160a05e9aeb.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p40#xywh=808,555,2350,3323> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/標鎗> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "標鎗" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/7c4b8e28558a9deed5289c642a88efba.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p36#xywh=863,471,2271,3374> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/沙船> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "沙船" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/船> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/0ec84e6c75b9aaf2f44dce63be6adf4c.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p24#xywh=810,555,2346,3339> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/海滄船> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "海滄船" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/船> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/1fd4f8193751671dacc201caedb2a412.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p11#xywh=768,498,2388,3361> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/漁船> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "漁船" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/船> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/f8f1d178af85c20d2bd9e6087aefd475.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p19#xywh=763,532,2361,3331> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/火妖> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "火妖" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/bb6ccb8a056b2090e67a9fbdc51b4100.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p20#xywh=810,579,2322,3268> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/火磚> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "火磚" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/d600b23d26133b9131f182afee20e0c4.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p23#xywh=810,540,2306,3308> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/火箭> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "火箭" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/fb0d3215d3d77e898e02e268ecac8d6e.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p34#xywh=855,563,2310,3323> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/火薬桶> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "火薬桶" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/962b4bc186e97f488b456e07ed895e9c.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p22#xywh=826,603,2299,3245> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/燕尾牌> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "燕尾牌" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/22c479e536be761a5e5a48fd61f24c6a.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p34#xywh=755,524,2322,3339> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/礟> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "礟" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/20fbc27b8be976f621e1f1e351d7cd3a.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p27#xywh=810,603,2306,3237> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/粤兵盔甲> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "粤兵盔甲" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/c32f7b775a72d91646067f690a002ba1.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p33#xywh=771,555,2354,3316> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/網梭船> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "網梭船" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/船> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/f961267f2f5eb77f4ce809e465904443.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p20#xywh=763,532,2354,3331> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/艟𦪞船> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "艟𦪞船" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/船> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/a54f40cd5e603afc62cac3e0be102399.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p14#xywh=802,571,2338,3323> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/草撇船> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "草撇船" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/船> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/25267cc4722e6324915bbc149e63cc4e.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p10#xywh=708,557,2393,3319> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/蒼山船> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "蒼山船" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/船> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/eaea0758d8614eef6339934a569cba23.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p15#xywh=787,501,2346,3347> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/藤牌> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "藤牌" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/6122e11ae46553fe163a786ba66d2e46.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p4#xywh=763,563,2338,3300> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/蜈蚣船> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "蜈蚣船" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/船> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/3c845aded3649de5a610798b9201d188.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p22#xywh=747,501,2346,3378> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/辺箭> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "辺箭" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/e4d1d03275d5e56ec2002c82855d2ed8.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p29#xywh=800,634,2310,3237> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/銃> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "銃" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/0a63625586e1c0b6ff5120cb84034cfb.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p14#xywh=818,540,2275,3316> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/銅発貢〔鑛〕> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "銅発貢〔鑛〕" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/7857eaee579c45ccd94d9386d1d750cb.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p5#xywh=763,595,2322,3261> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/長鎗> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "長鎗" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/d75c60d6b2b3cb34d9e5638e816a2cdc.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p37#xywh=840,571,2295,3292> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/開浪船> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "開浪船" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/船> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/f3b52c5504ba71a39468d6fee8449178.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p12#xywh=787,610,2361,3292> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/飛天噴筒> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "飛天噴筒" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/72ebc329759d7ec552403600555b3bc1.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p24#xywh=802,516,2306,3323> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/馬箭> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "馬箭" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/64dd1162654d44c5a9430646875766d4.jpg>,
+        <https://hi-ut.github.io/chukaizuhen_data/files/medium/8471370d13522b14fd83cdc0a0b8bea1.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p33#xywh=3111,508,2306,3308>,
+        <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p33#xywh=816,542,2271,3288> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/高把稍〔梢ヵ〕船> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "高把稍〔梢ヵ〕船" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/船> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/419b6e06812c242ca174aec3b7b21c92.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p13#xywh=802,540,2346,3323> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/鳥嘴銃> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "鳥嘴銃" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/3e6270e225a7c983e684b204b4cc2aa0.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p11#xywh=3134,555,2385,3308> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/鳥銃_後門形／銃架形…> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "鳥銃 後門形／銃架形…" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/94d0782c07e8270f40dadf80d5aa1313.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p12#xywh=3134,555,2393,3300> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/鳥銃_龍頭／架内搬鬼形／其鬼所勾画小出> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "鳥銃 龍頭／架内搬鬼形／其鬼所勾画小出" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/81385c59d7d1e8db7fcb6b6ef3dde485.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p11#xywh=794,555,2314,3316> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/鷹船> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "鷹船" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/船> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/1b614e887ba1a18e244178c71ddea63c.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/42/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256312/canvas/p18#xywh=763,532,2361,3355> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/神機箭> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "神機箭" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/6c42c15f3f3ab13d105be73995398d9a.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p35#xywh=826,550,2338,3249> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/𠷢枚> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "𠷢枚" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/5bac338f839a5f1bd8ffcafc0384ebcd.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p45#xywh=826,555,2314,3300> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/𥱉筅> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "𥱉筅" ;
+    ns1:about <https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> ;
+    ns1:dateModified "2021-08-16" ;
+    ns1:image <https://hi-ut.github.io/chukaizuhen_data/files/medium/87469032941cd6b53d2b99d5f38f7f19.jpg> ;
+    ns1:url <https://diyhistory.org/hi/omekac/oa/collections/43/manifest.json> ;
+    ns2:member <https://nakamura196.github.io/iiif0/iiif/4256313/canvas/p38#xywh=824,642,2303,3229> .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/船> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "船" .
+
+<https://lab.hi.u-tokyo.ac.jp/term/keyword/武器> a <https://lab.hi.u-tokyo.ac.jp/term/type/Keyword> ;
+    rdfs:label "武器" .
+
